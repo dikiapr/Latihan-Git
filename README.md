@@ -1,5 +1,8 @@
 # Latihan-Git
 
-ini ditulis oleh branchsatu
+ini ditulis oleh branchdua
 HelloWorld
 Hello Dunia
+
+Selamat malam
+nice to meet you
